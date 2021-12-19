@@ -1,0 +1,4 @@
+Teacher: Bùi Huy Anh
+email: buiquyanh@tdtu.edu.vn
+
++Bảo mật máy tính: đảm bảo 3 yêu cầu integrity(tính toàn vẹn), availability(sẵn sàng) và confidentiality(bí mật)
